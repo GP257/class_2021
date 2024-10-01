@@ -1,0 +1,3 @@
+[submodule "coding/parse-log"]
+	path = coding/parse-log
+	url = http://cees-gitlab.stanford.edu/GP257/parse-log.git
